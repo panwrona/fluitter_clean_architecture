@@ -1,4 +1,4 @@
-# alfred_interview
+# Flutter clean architecture
 
 A new Flutter project.
 
